@@ -1,8 +1,4 @@
-/*!
- * Author: Akash Bhadange
- */
-
- body {
+body {
   font-family: 'Open Sans', sans-serif;
   background-color: #f2f2f2;
   font-size: 16px;
@@ -34,7 +30,7 @@ img {
   max-width: 100%;
 }
 .purple {
-  color: #7447ae;
+  color: #eb9f2d;
 }
 .pink {
   color: #ff2a75;
@@ -142,7 +138,7 @@ h1.heading:after {
   width: 100px;
 }
 h1.heading.purple:after {
-  background-color: #7447ae;
+  background-color: #eb9f2d;
 }
 h1.heading.pink:after {
   background-color: #ff2a75;
@@ -295,7 +291,7 @@ h1.heading.pink:after {
 
 /* Footer */
 .footer {
-  background-color: #37324b;
+  background-color: #5e3724;
   padding: 5em;
 }
 .footer h1 {
@@ -313,7 +309,7 @@ h1.heading.pink:after {
   content: '';
   width: 80px;
   height: 4px;
-  background-color: #37a7ff;
+  background-color: #ff9e37;
   display: block;
   position: absolute;
   left: 50%;
